@@ -1,0 +1,4 @@
+idTransactionType,TransactionType
+1,BUY
+2,DIVIDENT
+3,SELL
